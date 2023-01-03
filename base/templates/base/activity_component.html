@@ -11,7 +11,7 @@
         </div>
         <p>
           @{{ message.user }}
-          <span>5 days ago</span>
+          <span>{{ message.created|timesince}}</span>
         </p>
       </a>
       {% if request.user == message.user %}
