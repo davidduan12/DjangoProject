@@ -1,6 +1,6 @@
 # DjangoProject
 
-A customized chat room web-application built with **Django** and **Javascript** designed for my high school CS Club w allow members to communicate outside weekly meetings
+A customized chat room web-application built with **Django** and **Javascript** designed for my high school CS Club to facilitate communication outside scheduled meeting times.
 
 
 ### Features
